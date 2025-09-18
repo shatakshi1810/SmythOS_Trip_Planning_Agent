@@ -2,6 +2,9 @@
 
 This project showcases a **multi-agent system** built with [SmythOS](https://github.com/SmythOS/sre) to dynamically plan trips. Instead of a fixed round-robin workflow, agents **handoff tasks intelligently** using shared context.  
 
+You can review the core implementation in the `TripPlanning.agent.ts` file here:  
+➡️ [TripPlanning.agent.ts on GitHub](https://github.com/shatakshi1810/SmythOS_Trip_Planning_Agent/blob/main/src/agents/TripPlanning.agent.ts)  
+
 ---
 
 ## 🚀 Features
