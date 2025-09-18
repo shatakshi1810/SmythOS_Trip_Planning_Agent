@@ -1,3 +1,14 @@
+# 🧭 Multi-Agent Dynamic Trip Planner (SmythOS)
+
+This project showcases a **multi-agent system** built with [SmythOS](https://github.com/SmythOS/sre) to dynamically plan trips. Instead of a fixed round-robin workflow, agents **handoff tasks intelligently** using shared context.  
+
+---
+
+## 🚀 Features
+- **Dynamic Agent Orchestration** → 5–7 specialized agents (Flights, Hotels, Local Transport, Activities, Budget, Weather, Evaluator).  
+- **Shared Context** → all agents stay aware of previous steps and results.  
+
+
 # @smythos/sdk Interactive Chat Example
 
 This project is a demonstration of the capabilities of the [@smythos/sdk](https://www.npmjs.com/package/@smythos/sdk), showcasing how to build and interact with AI agents in a Node.js environment. It features an interactive command-line interface (CLI) that allows you to chat with two different agents: a Book Assistant and a Crypto Assistant.
