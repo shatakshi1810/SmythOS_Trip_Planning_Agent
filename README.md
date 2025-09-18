@@ -1,4 +1,4 @@
-# 🧭 Multi-Agent Dynamic Trip Planner (SmythOS)
+# 🧭 Multi-Agent Like Dynamic Trip Planner (SmythOS)
 
 This project showcases a **multi-agent system** built with [SmythOS](https://github.com/SmythOS/sre) to dynamically plan trips. Instead of a fixed round-robin workflow, agents **handoff tasks intelligently** using shared context.  
 
