@@ -4,7 +4,7 @@ This project showcases a **multi-agent system** built with [SmythOS](https://git
 
 You can review the core implementation in the `TripPlanning.agent.ts` file here:  
 ➡️ [TripPlanning.agent.ts on GitHub](https://github.com/shatakshi1810/SmythOS_Trip_Planning_Agent/blob/main/src/agents/TripPlanning.agent.ts)  
-
+🗂️ [SMYTH Viusal Builder Locally Deployed (travel-orchestrator-mfpkrx4rnyj.smyth)](https://github.com/shatakshi1810/SmythOS_Trip_Planning_Agent/blob/main/data/travel-orchestrator-mfpkrx4rnyj.smyth)
 ---
 
 ## 🚀 Features
